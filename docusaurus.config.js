@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '给产品经理讲前端',
   tagline: 'Let PMs learn FE',
-  url: 'https://davidyfxu.github.io',
+  url: 'https://github.com',
   baseUrl: '/pm_learn_fe/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
