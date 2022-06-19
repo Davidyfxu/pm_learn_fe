@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '给产品经理讲前端',
   tagline: 'Let PMs learn FE',
-  url: 'https://davidyfxu.github.io/pm_learn_fe/',
-  baseUrl: '/',
+  url: 'https://davidyfxu.github.io',
+  baseUrl: '/pm_learn_fe/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,9 +17,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Davidyfxu', // Usually your GitHub org/user name.
-  projectName: 'Davidyfxu.github.io', // Usually your repo name.
-  deploymentBranch: 'main',
+  organizationName: 'davidyfxu', // Usually your GitHub org/user name.
+  projectName: 'pm_learn_fe', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: true,
 
   // Even if you don't use internalization, you can use this field to set useful
