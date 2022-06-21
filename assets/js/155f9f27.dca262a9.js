@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpm_learn_fe=self.webpackChunkpm_learn_fe||[]).push([[7206],{1742:function(e){e.exports=JSON.parse('{"permalink":"pm_learn_fe/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
